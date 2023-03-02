@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////////
-//Name: Eddie G. Pineda																			   //
-//Date: 10/22/2022																				   //
+//Name: Eddie G. Pineda										   //
+//Date: 10/22/2022										   //
 //Program Statement: Write a program that parses through a text file and prints out the frequency  //
 //                   of each letter of the English alphabet in it.                                 //
 //                      *Use an integer array of size 128.                                         //
